@@ -3,7 +3,7 @@
 
 www.patika.dev .NetCore eğitimi ödev1
 
-
+*******************************************
 using System;
 using System.Collections.Generic;
 using System.IO;
